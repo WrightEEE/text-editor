@@ -1,0 +1,10 @@
+" 禁用兼容模式
+set nocompatible
+" 显示行号
+set number
+" 显示相对行号
+set relativenumber
+" 语法高亮
+syntax on
+" 剪切板寄存器与匿名寄存器保持同步
+set clipboard=unnamedplus
